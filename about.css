@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+    <title>PRATIK TALREJA|DEVELOPER</title>
+   <link rel="stylsheet"href="css/normalize.css">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+  <header>
+    <a href="index.html" id="logo">
+    <h1>Pratik Talreja</h1>
+    <h2>Developer</h2>
+      </a>
+    </header>>
+    <nav>
+      <ul >
+      <li><a href="index.html" class="selected">Portflio</a></li>
+      <li><a href="about.html">About</a></li>
+       <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <p></p>
+   <ul id="content"><li> <p>Hello.I am Pratik Talreja.
+     This is my first attempt of making a website on my own.In this webpage you will get to see some of my pictures and my contact links.
+     
+     </p></li></ul>
+ 
+    <section><ul id="gallery">
+     
+      <li><p><img src="IMG_9272.JPG"alt"4"></p></li>
+      <li><p><img src="1238315_513659205392647_1670475933_n.jpg"alt"1"></p></li>
+    
+   
+    
+      <li><p><img src="13781818_1066490913442804_8804971973729512311_nmbcopy.jpg"alt"2"></p></li>
+      <li><p><img src="287A8309.jpg"alt"3"></p></li> 
+      
+      
+      <li><p><img src="287A8818.jpg"alt"7"></p></li>
+      <li><p><img src="IMG_9348.JPG"alt"4"></p></li>
+        
+      <li><p><img src="13775994_1066490753442820_2672948692385461414_ncopy.jpg"alt"5"></p></li>
+      <li> <p><img src="19467745_1407289289362963_6933517857255565280_o (1)copy.jpg" alt"6"></p></li>
+      </ul>
+      
+      
+
+      
+            
+    
+    </section>
+    
+<footer id="f">
+<ul>  
+  <li><p><a href="https://www.facebook.com/pratik.talreja.3"><img src="facebook.png" alt"facebook-logo"></a></p></li>
+  
+  <li><p><a href="https://www.instagram.com/talreja_pratik/"><img src="insta.png" alt"instagram-logo"></a></p></li>
+  <p>&copy;2017|PratikTalreja</p>
+    
+    </ul>
+    </footer> 
+
+   </body>
+  </html>
